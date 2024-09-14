@@ -11,7 +11,7 @@ Used webhooks and tunneling using ngrok to integrate the chatbot with our offlin
 
 To run it on your PC, clone this repository and install ngrok.
 
-Run the command- ngork http 5000
+Run the command- ngrok http 5000
 
 Used this API for fetching the conversion rates - app.exchangerate-api.com
 
